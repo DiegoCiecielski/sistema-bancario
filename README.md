@@ -2,11 +2,11 @@
 Este projeto é um sistema bancário em Python que permite o cadastro e gerenciamento de bancos, clientes e contas bancárias. Inclui funcionalidades para operações básicas como saques, depósitos e o fechamento de contas.
 
 ## Funcionalidades
-**Cadastro de Bancos**: Adicione e gerencie informações sobre diferentes bancos.
-**Cadastro de Clientes**: Registre clientes com nome, sobrenome, idade e CPF.
-**Contas Bancárias**: Crie contas correntes e poupança, com funcionalidades de depósito, saque e aplicação de taxas ou rendimentos mensais.
-**Operações Bancárias**: Realize saques e depósitos em contas, além de permitir o fechamento de contas.
-**Relatórios**: Consulte informações detalhadas sobre bancos, clientes e suas contas.
+- **Cadastro de Bancos**: Adicione e gerencie informações sobre diferentes bancos.
+- **Cadastro de Clientes**: Registre clientes com nome, sobrenome, idade e CPF.
+- **Contas Bancárias**: Crie contas correntes e poupança, com funcionalidades de depósito, saque e aplicação de taxas ou rendimentos mensais.
+- **Operações Bancárias**: Realize saques e depósitos em contas, além de permitir o fechamento de contas.
+- **Relatórios**: Consulte informações detalhadas sobre bancos, clientes e suas contas.
 
 ## Estrutura do Projeto
 - `Pessoa`: Classe que representa um cliente com atributos como nome, sobrenome, idade e CPF.
