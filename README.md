@@ -9,9 +9,9 @@ Este projeto é um sistema bancário em Python que permite o cadastro e gerencia
 **Relatórios**: Consulte informações detalhadas sobre bancos, clientes e suas contas.
 
 ## Estrutura do Projeto
-- 'Pessoa': Classe que representa um cliente com atributos como nome, sobrenome, idade e CPF.
-- 'Banco': Classe que representa um banco com nome, CNPJ e número identificador, além de gerenciar contas bancárias.
-- 'ContaBancaria': Classe abstrata base para contas, com funcionalidades básicas de saque, depósito e verificação de senha.
-- 'ContaCorrente': Subclasse de ContaBancaria com taxas mensais aplicadas ao saldo.
-- 'ContaPoupanca': Subclasse de ContaBancaria com rendimento mensal e limite de saques mensais.
-- 'menu_principal': Função que gerencia o menu principal do sistema e suas funcionalidades.
+- `Pessoa`: Classe que representa um cliente com atributos como nome, sobrenome, idade e CPF.
+- `Banco`: Classe que representa um banco com nome, CNPJ e número identificador, além de gerenciar contas bancárias.
+- `ContaBancaria`: Classe abstrata base para contas, com funcionalidades básicas de saque, depósito e verificação de senha.
+- `ContaCorrente`: Subclasse de ContaBancaria com taxas mensais aplicadas ao saldo.
+- `ContaPoupanca`: Subclasse de ContaBancaria com rendimento mensal e limite de saques mensais.
+- `menu_principal`: Função que gerencia o menu principal do sistema e suas funcionalidades.
